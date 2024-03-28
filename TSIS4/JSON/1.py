@@ -1,6 +1,6 @@
 import json
 
-with open('C:\\Users\\admin\\Desktop\\pp2\\lab4\\json\\data.json', 'r') as file:
+with open('C:\\Users\\aisul\\Documents\\PP2\\TSIS4\\JSON\\data.json', 'r') as file:
     json_data = json.load(file)
 
 print('''=======================================================================================
